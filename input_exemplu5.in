@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FiguriGemetrice>
+    <2D>
+        <Cerc nume="Cerc1">
+            <Raza>10</Raza>
+        </Cerc>
+        <Cerc nume="Cerc2">
+            <Raza>10</Raza>
+        </Cerc>
+        <Cerc nume="Cerc3">
+            <Raza>10</Raza>
+        </Cerc>
+        <Patrat nume="Cerc4">
+            <Latura>10</Latura>
+        </Patrat>
+    </2D>
+    <3D>
+        <Cilindru>
+            <Raza>5</Raza>
+            <Inaltime>10</Inaltime>
+        </Cilindru>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cub>
+            <Latura>3</Latura>
+        </Cub>
+        <Cilindru>
+            <Raza>5</Raza>
+            <Inaltime>10</Inaltime>
+        </Cilindru>
+        <Cilindru>
+            <Raza>5</Raza>
+            <Inaltime>10</Inaltime>
+        </Cilindru>
+        <Cilindru>
+            <Raza>5</Raza>
+            <Inaltime>10</Inaltime>
+        </Cilindru>
+        <Cilindru>
+            <Raza>5</Raza>
+            <Inaltime>10</Inaltime>
+        </Cilindru>
+    </3D>
+</FiguriGemetrice>

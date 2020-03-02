@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orase tara="Romania">
+    <Oras nume="Bucuresti">
+        <Bibliteca>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+        </Bibliteca>
+        <Bibliteca>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 3</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 4/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 1/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+        </Bibliteca>
+        <Bibliteca>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+        </Bibliteca>
+        <Bibliteca>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 3</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 4/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 1/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+        </Bibliteca>
+    </Oras>
+    <Oras nume="Timisoara">
+        <Bibliteca>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 1</Nume>
+                <AnAparitie>2017</AnAparitie>
+            </Carte>
+            <Carte>
+                <Nume>Carte 2/Nume>
+                <AnAparitie>2015</AnAparitie>
+            </Carte>
+        </Bibliteca>
+    </Oras>
+</Orase>

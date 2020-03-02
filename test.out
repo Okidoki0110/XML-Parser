@@ -1,0 +1,38 @@
+<root>
+	<catalog>
+		<book>
+		_id:  bk101 
+
+			<author>author : Gambardella, Matthew
+			title : XML Developer’s Guide
+			genre : Computer
+			
+			_unit:  euro 
+price : 44.95
+			publish_date : 2000-10-01
+			description : An in-depth look at creating applications with XML.
+		<book>
+		_id:  bk102 
+
+			<author>author : Ralls, Kim
+			title : Midnight Rain
+			genre : Fantasy
+			
+			_unit:  euro 
+price : 5.95
+			publish_date : 2000-12-16
+		<book>
+		_id:  bk103 
+
+			<author>author : Corets, Eva
+			title : Maeve Ascendant
+			genre : Fantasy
+			
+			_unit:  euro 
+price : 5.95
+			publish_date : 2000-11-17
+		<author>author : O’Brien, Tim
+		title : MSXML3: A Comprehensive Guide
+		genre : Computer
+		price : 36.95
+		publish_date : 2000-12-01>
